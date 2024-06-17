@@ -61,15 +61,15 @@
 },
    {
        "name": "-星视界",
-       "url": "http://www.52sw.top:678/play/oj1381/list.php?get=%E6%98%9F%E8%A7%86%E7%95%8C"
+       "url": "http://www.52sw.top:678/play/oj1381/list.php?get=%E6%98%9F%E8%A7%86%E7%95%8C&t=1718698688"
    },
    {
        "name": "-星视界2",
-       "url": "http://www.52sw.top:678/play/oj1381/list.php?get=%E6%98%9F%E8%A7%86%E7%95%8C2%E7%BA%BF"
+       "url": "http://www.52sw.top:678/play/oj1381/list.php?get=%E6%98%9F%E8%A7%86%E7%95%8C2%E7%BA%BF&t=1718698659"
    },
   {
       "name": "youtube",
-       "url": "file://Download/TV/youtube.txt",
+       "url": "file://youtube.txt",
        "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -84,25 +84,7 @@
  {
       "name": "YueChan",
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"
-      },
-   {
-      "name": "p3",
-      "url": "file://Download/TV/p3.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-{
-      "name": "159cr",
-      "url": "file://Download/TV/159cr.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "169cr",
-      "url": "file://Download/TV/169cr.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
+      }
  ]
 }
 
