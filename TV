@@ -1,0 +1,109 @@
+{
+  "lives": [
+    {
+      "name": "mitv",
+      "url": "file://Download/TV/Mitv.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+  {
+      "name": "159",
+      ##"url": "file://Download/TV/159.txt",
+      "url": "http://www.52sw.top:678/play/oj1381/list.php?get=159&t=1718663441",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+{
+      "name": "169",
+     ##"url":  "file://Download/TV/169.txt",
+      "url": "http://www.52sw.top:678/play/oj1381/list.php?get=169%E7%84%A6%E7%82%B9&t=1718663490",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },  
+     {
+      "name": "p3p",
+      "url": "file://Download/TV/p3p.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "l821706",
+       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/l821706/IPTV/main/%E7%9B%B4%E6%92%AD%E5%9C%B0%E5%9D%80.txt",
+       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+ },
+   {
+      "name": "54321",
+     ##  "url": "https://888.iptv543.com/54321.txt",
+         "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hus888yu/app/main/54321.txt",
+       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+ },
+{
+      "name": "-stream",
+       "url": "http://www.stream-link.org/stream-link.m3u"
+ },
+ {
+      "name": "smart",
+       "url": "https://fm1077.serv00.net/SmartTV.m3u"
+ },
+    {
+      "name": "-台湾嗅探直播",
+      "url": "http://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/live/4gtv%20(1).txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+       "name": "Mytvsuper",
+       "url": "http://epg.doube.eu.org/MyTvSuper.m3u"
+       ##"url": "http://www.52sw.top:678/play/mytvsuper"
+       ##"url": "https://yang-1989.eu.org/m3u/MyTV"
+},
+   {
+       "name": "-星视界",
+       "url": "http://www.52sw.top:678/play/oj1381/list.php?get=%E6%98%9F%E8%A7%86%E7%95%8C"
+   },
+   {
+       "name": "-星视界2",
+       "url": "http://www.52sw.top:678/play/oj1381/list.php?get=%E6%98%9F%E8%A7%86%E7%95%8C2%E7%BA%BF"
+   },
+  {
+      "name": "youtube",
+       "url": "file://Download/TV/youtube.txt",
+       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+     {
+      "name": "176868",
+       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hus888yu/app/main/666.txt"
+     },
+   {
+      "name": "JP",
+       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/luongz/iptv-jp/main/jp.m3u"
+     },
+ {
+      "name": "YueChan",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"
+      },
+   {
+      "name": "p3",
+      "url": "file://Download/TV/p3.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+{
+      "name": "159cr",
+      "url": "file://Download/TV/159cr.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "169cr",
+      "url": "file://Download/TV/169cr.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+ ]
+}
+
+
